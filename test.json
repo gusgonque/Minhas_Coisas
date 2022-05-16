@@ -7,6 +7,13 @@
     "longitude": -54.585251
   },
   {
+    "id": 2,
+    "plate": "ABC4321",
+    "description": "Descrição 3 - PTI",
+    "latitude": -25.4357,
+    "longitude": -54.5949
+  },
+  {
     "id": 1,
     "plate": "1234567",
     "description": "Descrição 2 - Curitiba",
